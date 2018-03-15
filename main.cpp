@@ -1,7 +1,5 @@
 #include <iostream>
-#include <include/graph.h>
-
-using namespace std;
+#include <graph.h>
 
 int main()
 {
